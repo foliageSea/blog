@@ -12,7 +12,7 @@ heroImageStyle: {
   borderRadius: '1rem',
 }
 bgImageStyle: {
-  height: '300px'
+  height: '400px'
 }
 # isShowTitleInHome: false
 # actionText: Guide

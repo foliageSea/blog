@@ -1,7 +1,7 @@
 module.exports = {
   base: '/blog/',
   "title": "foliageSea",
-  "description": "foliageSea's Blog",
+  // "description": "foliageSea's Blog",
   // 输出路径
   "dest": "public",
   "head": [
@@ -78,17 +78,17 @@ module.exports = {
       //   "01-Vue.js",
       // ],
     },
-    // "type": "blog",
-    // "blogConfig": {
-    //   "category": {
-    //     "location": 2,
-    //     "text": "Category"
-    //   },
-    //   "tag": {
-    //     "location": 3,
-    //     "text": "Tag"
-    //   }
-    // },
+    "type": "blog",
+    "blogConfig": {
+      // "category": {
+      //   "location": 2,
+      //   "text": "Category"
+      // },
+      "tag": {
+        "location": 3,
+        "text": "Tag"
+      }
+    },
     // "friendLink": [
     //   {
     //     "title": "午后南杂",
