@@ -13,10 +13,10 @@ cd public/
 # echo 'www.example.com' > CNAME
 
 git init
-git add .
+git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/foliageSea/docs.git master:gh-pages-new
+git push -f https://github.com/foliageSea/blog.git master:blog
 
 cd -

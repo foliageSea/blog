@@ -1,7 +1,8 @@
 module.exports = {
-  base: '/docs/',
+  base: '/blog/',
   "title": "foliageSea",
   "description": "foliageSea's Blog",
+  // 输出路径
   "dest": "public",
   "head": [
     [
@@ -21,7 +22,9 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    // 关闭404公益广告
     noFoundPageByTencent: false,
+    // 子侧边栏
     subSidebar: 'auto',
     "nav": [
       {
@@ -41,7 +44,7 @@ module.exports = {
         "items": [
           {
             "text": "Vue.js",
-            "link": "/docs/Vue.js/"
+            "link": "/docs/Vue.js/01-Vue.js"
           },
           // {
           //   "text": "Vue.js-2",
@@ -72,9 +75,7 @@ module.exports = {
         "vuerc",
       ],
       // "/docs/Vue.js-2/": [
-
       //   "01-Vue.js",
-
       // ],
     },
     // "type": "blog",
@@ -103,7 +104,7 @@ module.exports = {
     //   }
     // ],
     "logo": "/logo.png",
-    "search": true,
+    "search": false,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "foliageSea",
@@ -112,7 +113,7 @@ module.exports = {
     // "startYear": "2017"
   },
   "markdown": {
-    "lineNumbers": true
+    "lineNumbers": false,
   }
 };
 
