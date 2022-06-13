@@ -2,15 +2,15 @@
 home: true
 # heroText: vuepress-theme-reco
 # tagline: A simple and beautiful vuepress blog theme.
-heroImage: /logo.png
-heroImageStyle: {
-  maxWidth: '300px',
-  width: '100%',
-  display: block,
-  margin: '9rem auto 2rem',
-  # background: '#fff',
-  borderRadius: '1rem',
-}
+# heroImage: /logo.png
+# heroImageStyle: {
+#   maxWidth: '150px',
+#   width: '100%',
+#   display: block,
+#   margin: '9rem auto 2rem',
+#   # background: '#fff',
+#   borderRadius: '1rem',
+# }
 bgImageStyle: {
   height: '400px'
 }

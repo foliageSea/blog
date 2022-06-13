@@ -39,7 +39,7 @@
 **安装**
 
 ```powershell
-npm install -g yarn
+npm install -g yarn@2
 ```
 
 **查看版本**
@@ -215,7 +215,7 @@ export default {
 
 *   .prevent 阻止默认行为
 
-*   .once 程序运行旗舰, 只触发一次事件处理函数
+*   .once 程序运行期间, 只触发一次事件处理函数
 
 ### 5. v-on 按键修饰符
 

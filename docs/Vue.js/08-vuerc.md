@@ -1,4 +1,4 @@
-# .vuerc 配置
+# .vuerc
 
 **路径** `C:\Users\HAIMIN\.vuerc`
 

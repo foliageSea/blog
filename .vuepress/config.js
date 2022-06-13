@@ -1,7 +1,7 @@
 module.exports = {
   base: '/blog/',
   "title": "foliageSea",
-  // "description": "foliageSea's Blog",
+  "description": "foliageSea's Blog",
   // 输出路径
   "dest": "public",
   "head": [
@@ -72,7 +72,9 @@ module.exports = {
         "03-Vue.js",
         "04-Vue.js",
         "05-Vue.js",
-        "vuerc",
+        "06-Vue.js",
+        "07-Vue.js",
+        "08-vuerc",
       ],
       // "/docs/Vue.js-2/": [
       //   "01-Vue.js",
