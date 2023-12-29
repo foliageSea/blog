@@ -11,9 +11,9 @@ export default defineUserConfig({
     logo: "/logo.png",
     author: "foliage",
     authorAvatar: "/head.png",
-    docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
+    docsRepo: "https://github.com/foliageSea/blog",
     docsBranch: "main",
-    docsDir: "example",
+    docsDir: "",
     lastUpdatedText: "",
     // series 为原 sidebar
     series: {
