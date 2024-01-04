@@ -3,12 +3,12 @@ import type { DefaultThemeOptions } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
-  title: "foliage blog",
+  title: "foliage",
   description: "Just playing around",
   base: "/blog/",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
-    logo: "/logo.png",
+    // logo: "/logo.png",
     author: "foliage",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/foliageSea/blog",
