@@ -108,5 +108,5 @@ export default defineUserConfig({
     //   },
     // },
   }),
-  debug: false,
+  debug: true,
 });

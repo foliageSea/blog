@@ -1,5 +1,5 @@
 ---
-title: ZSH 指南
+title: ZSH指南
 date: 2024/02/14
 tags:
   - mac

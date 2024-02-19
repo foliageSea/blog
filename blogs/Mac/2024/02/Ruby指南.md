@@ -1,5 +1,5 @@
 ---
-title: Ruby 指南
+title: Ruby指南
 date: 2024/02/13
 tags:
   - mac

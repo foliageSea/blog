@@ -1,5 +1,5 @@
 ---
-title: adb 小记
+title: adb小记
 date: 2024/01/06
 tags:
   - flutter

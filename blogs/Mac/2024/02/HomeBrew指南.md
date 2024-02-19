@@ -1,5 +1,5 @@
 ---
-title: HomeBrew 指南
+title: HomeBrew指南
 date: 2024/02/13
 tags:
   - mac
@@ -30,7 +30,10 @@ export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebr
 export HOMEBREW_PIP_INDEX_URL="https://pypi.tuna.tsinghua.edu.cn/simple"
 ```
 
-
+- 修改生效
+```bash
+source .zshrc
+```
 
 
 

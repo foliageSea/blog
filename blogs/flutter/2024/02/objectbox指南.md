@@ -1,5 +1,5 @@
 ---
-title: objectbox 指南
+title: objectbox指南
 date: 2024/01/08
 tags:
   - flutter

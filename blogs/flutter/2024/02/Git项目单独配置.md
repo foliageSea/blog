@@ -1,5 +1,5 @@
 ---
-title: Git 项目单独配置
+title: Git项目单独配置
 date: 2024/01/08
 tags:
   - flutter git
