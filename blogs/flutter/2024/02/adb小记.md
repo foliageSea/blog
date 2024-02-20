@@ -1,6 +1,7 @@
 ---
 title: adb小记
-date: 2024/01/06
+date: 2024/02/20
+permalinkPattern: flutter/2024022001.html
 tags:
   - flutter
 categories:

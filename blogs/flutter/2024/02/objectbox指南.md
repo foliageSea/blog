@@ -1,6 +1,7 @@
 ---
 title: objectbox指南
-date: 2024/01/08
+date: 2024/02/20
+permalinkPattern: flutter/2024022005.html
 tags:
   - flutter
 categories:

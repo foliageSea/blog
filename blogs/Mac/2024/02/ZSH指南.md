@@ -1,6 +1,7 @@
 ---
-title: ZSH指南
-date: 2024/02/14
+title: ZSH 指南
+date: 2024/02/20
+permalinkPattern: mac/2024022003.html
 tags:
   - mac
 categories:
@@ -8,6 +9,8 @@ categories:
 ---
 
 ### 安装 ZSH
+
+- 请先确保安装 `HomeBrew`
 
 ```bash
 sudo brew install zsh
@@ -33,17 +36,22 @@ echo $SHELL
 
 ### 安装 oh-my-zsh
 
+- `oh-my-zsh` 的作用美化终端
+- 建议开启终端代理
+
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-### 安装 zsh-autosuggestions 插件
+### 安装 zsh-autosuggestions 插件 (推荐)
+
+- 作用: 提供命令行历史记录, 通过右箭头补充命令行
 
 ```bash
 git clone https://gitee.com/hailin_cool/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
-### 添加配置 .zshrc
+### 添加配置到 `.zshrc`
 
 ```bash
 source $ZSH_CUSTOM/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh

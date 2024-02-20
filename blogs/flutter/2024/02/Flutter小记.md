@@ -1,6 +1,7 @@
 ---
 title: Flutter小记
-date: 2024/01/04
+date: 2024/02/20
+permalinkPattern: flutter/2024022003.html
 tags:
   - flutter
 categories:
@@ -33,7 +34,6 @@ fvm use 3.10.5
 ### Flutter 数据库
 
 - https://pub-web.flutter-io.cn/packages/objectbox
-- 
 
 
 
@@ -53,13 +53,6 @@ export PATH="$PATH":"$HOME/.pub-cache/bin"
 # adb
 export PATH="$PATH":"$HOME/tools/AndroidSDK/platform-tools"
 ```
-
-
-
-## Mac 开发环境配置
-
-1. 安装 [homebrew](https://brew.sh/)
-2. ​	
 
 
 
