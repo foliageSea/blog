@@ -18,25 +18,6 @@ fvm use 3.10.5
 ```
 
 
-
-## Dart Package
-
-### 跨平台视频播放器
-
-- https://github.com/media-kit/media-kit
-
-- https://pub-web.flutter-io.cn/packages/video_player_media_kit (video_player的跨平台实现)
-
-### Flutter Webview
-
-- https://github.com/pichillilorenzo/flutter_inappwebview
-
-### Flutter 数据库
-
-- https://pub-web.flutter-io.cn/packages/objectbox
-
-
-
 ### Mac Flutter开发环境变量配置
 
 ```shell
