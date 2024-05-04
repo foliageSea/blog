@@ -6,14 +6,16 @@ tags:
   - flutter
 categories:
   - flutter
-
 ---
+
 ### 设备连接信息
+
 ```bash
 adb devices
 ```
+
 ### 指定设备安装应用
+
 ```bash
 adb -s emulator-5554 install app-release.apk
 ```
-

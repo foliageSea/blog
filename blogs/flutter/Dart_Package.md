@@ -1,7 +1,7 @@
 ---
 title: Dart Package
 date: 2024/03/04
-permalinkPattern: flutter/2024030401.html
+permalinkPattern: flutter/1714319328000.html
 tags:
   - flutter
 categories:
@@ -34,8 +34,6 @@ https://pub-web.flutter-io.cn/packages/objectbox
 ### 异步锁
 
 https://pub-web.flutter-io.cn/packages/synchronized
-
-
 
 
 ### 扫码
