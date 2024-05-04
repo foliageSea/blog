@@ -1,7 +1,7 @@
 ---
 title: Go GRPC
 date: 2024/02/20
-permalinkPattern: go/2024022003.html
+permalinkPattern: go/1714839519000.html
 tags:
   - go
 categories:

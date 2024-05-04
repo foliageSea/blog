@@ -1,7 +1,7 @@
 ---
 title: Mac 终端代理命令行
 date: 2024/03/06
-permalinkPattern: mac/2024-03-06-01.html
+permalinkPattern: mac/1714839547000.html
 tags:
   - mac
 categories:

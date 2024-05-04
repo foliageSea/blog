@@ -1,7 +1,7 @@
 ---
 title: ZSH 指南
 date: 2024/02/20
-permalinkPattern: mac/2024022003.html
+permalinkPattern: mac/1714839567000.html
 tags:
   - mac
 categories:

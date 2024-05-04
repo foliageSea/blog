@@ -1,7 +1,7 @@
 ---
 title: Go开发环境配置
 date: 2024/02/20
-permalinkPattern: go/2024022002.html
+permalinkPattern: go/1714839528000.html
 tags:
   - go
 categories:

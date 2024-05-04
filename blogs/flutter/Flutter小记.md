@@ -1,7 +1,7 @@
 ---
 title: Flutter小记
 date: 2024/02/20
-permalinkPattern: flutter/2024022003.html
+permalinkPattern: flutter/1714839486000.html
 tags:
   - flutter
 categories:

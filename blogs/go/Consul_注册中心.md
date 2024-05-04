@@ -1,7 +1,7 @@
 ---
 title: Consul 注册中心
 date: 2024/02/20
-permalinkPattern: go/2024022001.html
+permalinkPattern: go/1714839512000.html
 tags:
   - go
 categories:

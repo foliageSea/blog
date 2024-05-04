@@ -1,7 +1,7 @@
 ---
 title: Git项目单独配置
 date: 2024/02/20
-permalinkPattern: flutter/2024022004.html
+permalinkPattern: flutter/1714839496000.html
 tags:
   - flutter git
 categories:

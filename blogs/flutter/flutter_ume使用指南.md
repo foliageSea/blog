@@ -1,7 +1,7 @@
 ---
 title: flutter_ume使用指南
 date: 2024/02/20
-permalinkPattern: flutter/2024022002.html
+permalinkPattern: flutter/1714839465000.html
 tags:
   - flutter
 categories:

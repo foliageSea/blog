@@ -1,7 +1,7 @@
 ---
 title: PowerShell 代理
 date: 2024/03/06
-permalinkPattern: win/2024-03-06-02.html
+permalinkPattern: win/1714839578000.html
 tags:
   - win
 categories:

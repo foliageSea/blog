@@ -1,7 +1,7 @@
 ---
 title: HomeBrew 指南
 date: 2024/02/20
-permalinkPattern: mac/2024022001.html
+permalinkPattern: mac/1714839539000.html
 tags:
   - mac
 categories:

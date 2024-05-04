@@ -1,7 +1,7 @@
 ---
 title: Ruby 指南
 date: 2024/02/20
-permalinkPattern: mac/2024022002.html
+permalinkPattern: mac/1714839559000.html
 tags:
   - mac
 categories:

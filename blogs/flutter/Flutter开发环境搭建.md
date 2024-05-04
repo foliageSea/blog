@@ -1,7 +1,7 @@
 ---
 title: Flutter 开发环境搭建 (MacOS)
 date: 2024/02/21
-permalinkPattern: flutter/2024-02-21-01.html
+permalinkPattern: flutter/1714839478000.html
 tags:
   - flutter
 categories:
@@ -65,7 +65,6 @@ export PATH=$HOME/fvm/versions/default/bin:$PATH
 # adb
 export PATH=$HOME/sdk/openjdk-21.0.2/Contents/Home/platform-tools:$PATH
 ```
-
 
 
 
