@@ -1,7 +1,7 @@
 ---
 title: yarn安装依赖跳过版本检查
 date: 2024/09/05
-permalinkPattern: mac/1725521125066.html
+permalinkPattern: vue/1725521125066.html
 tags:
   - vue
 categories:
