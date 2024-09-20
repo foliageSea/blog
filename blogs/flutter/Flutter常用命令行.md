@@ -24,3 +24,19 @@ environment:
 ```
 - sdk: Dart SDK 版本
 - flutter: Flutter SDK 版本
+
+# 运行Flutter项目
+```bash
+# 清除缓存
+rm -rf build/
+flutter clean
+flutter pub get
+
+flutter pub add dev:flutter_lints
+
+# 获取设备列表
+flutter devices
+
+# 运行项目
+flutter run -d windows -v
+```
