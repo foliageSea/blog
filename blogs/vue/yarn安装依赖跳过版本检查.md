@@ -9,5 +9,5 @@ categories:
 ---
 在执行 yarn install 时可以通过添加 --ignore-engines 选项来跳过引擎版本检查等一些常规的兼容性检查，但这可能会导致潜在的运行时问题，所以需谨慎使用。
 ```bash
-yarn install --ignore-engines
+yarn install --ignore-engines --registry=https://registry.npmmirror.com/
 ```
