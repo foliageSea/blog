@@ -14,7 +14,7 @@ git init
 git config user.email "2350824800@qq.com"
 git config user.name  foliageSea
 git add .
-git commit -m 'deploy'
+git commit -m "deploy: `TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S'`"
 # git config http.proxy "http://127.0.0.1:7890"
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
