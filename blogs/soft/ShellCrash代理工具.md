@@ -8,4 +8,4 @@ categories:
   - soft
 ---
 
-> [https://github.com/juewuy/ShellCrash/tree/dev]('https://github.com/juewuy/ShellCrash/tree/dev')
+> [https://github.com/juewuy/ShellCrash/tree/dev](https://github.com/juewuy/ShellCrash/tree/dev)
