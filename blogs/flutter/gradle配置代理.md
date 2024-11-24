@@ -8,7 +8,7 @@ categories:
   - flutter
 ---
 
-"C:\Users\foliage\.gradle\gradle.properties"
+"C:\Users\foliage\\.gradle\gradle.properties"
 
 ```gradle
 systemProp.http.proxyHost=127.0.0.1
