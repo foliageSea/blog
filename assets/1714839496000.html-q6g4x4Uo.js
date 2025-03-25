@@ -1,0 +1,13 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, b as createStaticVNode } from "./app-C6L_rV1c.js";
+const _sfc_main = {};
+const _hoisted_1 = /* @__PURE__ */ createStaticVNode('<div class="language-ini line-numbers-mode" data-ext="ini"><pre class="language-ini"><code><span class="token section"><span class="token punctuation">[</span><span class="token section-name selector">user</span><span class="token punctuation">]</span></span>\n  <span class="token key attr-name">email</span> <span class="token punctuation">=</span> <span class="token value attr-value">2350824800@qq.com</span>\n  <span class="token key attr-name">name</span> <span class="token punctuation">=</span> <span class="token value attr-value">foliageSea</span>\n<span class="token section"><span class="token punctuation">[</span><span class="token section-name selector">http</span><span class="token punctuation">]</span></span>\n  <span class="token key attr-name">proxy</span> <span class="token punctuation">=</span> <span class="token value attr-value">http://127.0.0.1:7890</span>\n<span class="token section"><span class="token punctuation">[</span><span class="token section-name selector">https</span><span class="token punctuation">]</span></span>\n  <span class="token key attr-name">proxy</span> <span class="token punctuation">=</span> <span class="token value attr-value">https://127.0.0.1:7890</span>\n</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><code>init_git.sh</code></p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">git</span> config user.email <span class="token string">&quot;2350824800@qq.com&quot;</span>\n<span class="token function">git</span> config user.name  <span class="token string">&quot;foliageSea&quot;</span>\n<span class="token function">git</span> config http.proxy <span class="token string">&quot;http://127.0.0.1:7890&quot;</span>\n</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>', 3);
+const _hoisted_4 = [
+  _hoisted_1
+];
+function _sfc_render(_ctx, _cache) {
+  return openBlock(), createElementBlock("div", null, _hoisted_4);
+}
+const _1714839496000_html = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "1714839496000.html.vue"]]);
+export {
+  _1714839496000_html as default
+};
